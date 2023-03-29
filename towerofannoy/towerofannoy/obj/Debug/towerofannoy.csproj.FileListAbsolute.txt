@@ -1,0 +1,21 @@
+C:\Ali\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.exe.config
+C:\Ali\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.exe
+C:\Ali\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.pdb
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csprojAssemblyReference.cache
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.Form1.resources
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.Properties.Resources.resources
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.GenerateResource.cache
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.CoreCompileInputs.cache
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.exe
+C:\Ali\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.pdb
+D:\ali alfayed\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.exe.config
+D:\ali alfayed\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.exe
+D:\ali alfayed\projects\towerofannoy\towerofannoy\bin\Debug\towerofannoy.pdb
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.AssemblyReference.cache
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.SuggestedBindingRedirects.cache
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.Form1.resources
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.Properties.Resources.resources
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.GenerateResource.cache
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.csproj.CoreCompileInputs.cache
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.exe
+D:\ali alfayed\projects\towerofannoy\towerofannoy\obj\Debug\towerofannoy.pdb
